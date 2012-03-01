@@ -1,0 +1,53 @@
+/*General*/
+html, body{height: 100%;}
+body{ font:0.75em/1.6em Helvetica, Arial, sans-serif; color: #303e48;}
+
+/*Links*/
+a,.link{ text-decoration: none; color: #1e9fbf; cursor: pointer; transition: color 0.4s ease-in-out; -moz-transition: color 0.4s ease-in-out; -webkit-transition: color 0.4s ease-in-out; -o-transition: color 0.4s ease-in-out;}
+a:hover, .link:hover{ text-decoration: none; color: #CB3939; }
+
+input[type="text"],input[type="password"], textarea{ border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border: 1px solid #E5E5E5; padding: 2px 5px; width: 70%; height: 26px; line-height: 26px; font:12px/20px Helvetica, Arial, sans-serif;}
+input[type="text"].error,input[type="password"].error{ background: none #ffeaea; border: 1px solid #E5E5E5; }
+textarea{ min-height: 100px; overflow: hidden; }
+select{ border:1px solid #E5E5E5; padding:2px; width: 72%;}
+
+/*Typography*/
+h1, h2, h3, h4, h5, h6 {margin-bottom: 20px; font-weight: normal;}
+h1 { font-size: 30px; line-height: 30px;}
+h2 { font-size: 26px; }
+h3 { font-size: 22px; }
+h4 { font-size: 18px; }
+h5 { font-size: 14px; }
+h6 { font-size: 12px; }
+p {line-height: 1.6em; margin-bottom: 15px; word-break: break-all;}
+p:last-child{margin-bottom: 0;}
+blockquote { quotes: none; }
+del { text-decoration: line-through; }
+table { border-collapse:collapse; border-spacing: 0;  width: 100%; }
+pre { font-family: "Courier 10 Pitch", Courier, monospace; }
+code { font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace; }
+label { display: block;}
+
+/* Text elements */
+*{ margin: 0; padding: 0; outline: none; }
+a img{ border:0; }
+ul li,ol li{ list-style: none; }
+fieldset{ border: 0; margin: 0; padding: 0;}
+ol ol { list-style: upper-alpha; }
+ol ol ol { list-style: lower-roman; }
+ol ol ol ol { list-style: lower-alpha; }
+ul ul, ol ol, ul ol, ol ul { margin-bottom: 0; }
+dl { margin: 0 0 24px 0; }
+dt { font-weight: bold; }
+dd { margin-bottom: 18px; }
+strong { font-weight: bold; }
+cite, em, i { font-style: italic; }
+big { font-size: 131.25%; }
+ins { background: #ffc; text-decoration: none; }
+blockquote { font-style: italic; padding: 0 3em; }
+blockquote cite, blockquote em, blockquote i { font-style: normal; }
+pre { background: #f7f7f7; color: #222; line-height: 1.6em; margin-bottom: 18px; padding: 1.5em; }
+abbr, acronym { border-bottom: 1px dotted #666; cursor: help; }
+sup, sub { height: 0; line-height: 1; position: relative; vertical-align: baseline; }
+sup { bottom: 1ex; }
+sub {top: .5ex; }

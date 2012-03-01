@@ -1,0 +1,16 @@
+.wp-page{
+    display:block;
+    width: 960px;
+    margin:100px auto;
+}
+.wp-content{
+    width:640px;
+}
+.wp-footer{
+    display:block;
+    width: 960px;
+    margin:30px auto;
+}
+.wp-footer p{
+    text-align: center;
+}

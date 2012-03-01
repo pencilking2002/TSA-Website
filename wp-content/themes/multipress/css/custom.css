@@ -1,0 +1,81 @@
+/* custom menu styles */
+#menu-tsa_menu {
+	min-width:540px;
+	margin-top:-10px;
+}
+
+.cosmo-icons ul li {
+	padding: 3px;
+}
+
+.utilities-container{
+	background: black;
+	width: 290px;
+	float: right;
+	height: 27px;
+	padding: 5px;
+	margin-bottom: 32px;
+	margin-top: -4px;
+	position:absolute;
+	z-index: -100;
+	right: 0px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+
+#access {
+	margin-top: -20px;
+}
+
+/* logo */
+
+.logo.b.w_210 {
+	margin-top:9px;
+}
+
+/* Contact page */
+body.page-id-238 #primary {
+	background:none;
+}
+
+body.page-id-238 #contact-4 {
+	margin-top:0;
+}
+
+/* SYSMPOSIA STYLES */
+
+.page-template-symposia-home-php .entry-title.symposia-title {
+	font: bold 200px/1em "PT Sans Narrow" !important;
+	text-transform: uppercase;
+	
+}
+
+.past-sym-container {
+	
+} 
+
+
+/* This div fixes the margin problem created by spaces between he li's*/
+
+.past-sym-container ul.past-sym-list li{
+	display:inline-block !important;
+	margin: 0 34px 34px 0;
+}
+/*no margin for every 3rd child */
+.past-sym-container ul.past-sym-list li:nth-child(3n+3){
+		margin: 0 0 0 0;
+}
+
+div.past-sym-year {
+	color:#FFF;
+	background:#999;
+	font: bold 100px/2.7em "PT Sans Narrow";
+	height:260px;
+	text-align:center;
+	width:285px;
+}	
+
+.page-template-symposia-home-php #primary {
+	background:none;
+}
+/* END SYMPOSIA *STYLES */ 

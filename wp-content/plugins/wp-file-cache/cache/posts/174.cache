@@ -1,0 +1,74 @@
+O:8:"stdClass":24:{s:2:"ID";i:174;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2012-02-01 17:56:47";s:13:"post_date_gmt";s:19:"2012-02-01 17:56:47";s:12:"post_content";s:2236:"<!--<h4 class="tabs_title">My Tabs</h4>-->
+
+					<div class="cosmo-tabs default has_title" id="53">
+
+						<ul class="tabs-nav"> 
+
+							<li class="first tabs-selected"><a href="#t1382">
+							
+								<span>Upcoming Events</span></a>
+							
+							</li>
+
+							<li class="last"><a href="#t977">
+							
+								<span>Past Events</span></a>
+								
+							</li>
+
+						</ul><!--End tabs nav -->
+
+						<div class="tabs-container" id="t1382">
+
+						<?php query_posts('event-type=upcoming'); ?><!--Only get posts in the 'upcoming' taxonomy-->
+							
+						<?php while ( have_posts() ) : the_post(); ?>
+						<div class ="post"><!--Begin Post -->
+							<div class ="img-cap">
+								<p><?php the_post_thumbnail(); ?></p>
+								<div class="event-cat">
+									<?php the_field('event_type'); ?>
+								</div>
+							</div>
+						
+						<div class ="event-body"> 
+							<h3><a href ="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+							<span><?php the_field('event_dates'); ?></span><br />
+							</span><?php the_field('event_location'); ?></span><br />
+							<p><?php the_content(); ?></p>
+							</span><?php the_field('image_caption'); ?></span>
+						</div>	
+					</div><!--End Post -->
+							<?php endwhile; ?>
+						</div><!-- End b_text -->
+
+						<div class="tabs-container" id="t977">
+						
+							<?php query_posts('event-type=past'); ?><!--Only get posts in the 'past' taxonomy-->
+
+							<?php while ( have_posts() ) : the_post(); ?>
+							<div class ="post"><!--Begin Post -->
+								<div class ="img-cap">
+									<p><?php the_post_thumbnail(); ?></p>
+									<div class="event-cat">
+										<?php the_field('event_type'); ?>
+									</div>
+								</div>
+
+							<div class ="event-body"> 
+								<h3><a href ="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+								<span><?php the_field('event_dates'); ?></span><br />
+								</span><?php the_field('event_location'); ?></span><br />
+								<p><?php the_content(); ?></p>
+								</span><?php the_field('image_caption'); ?></span>
+							</div>	
+						</div><!--End Post -->
+						
+						<?php endwhile; ?>
+						
+						
+							
+								
+						
+
+					";s:10:"post_title";s:7:"Events ";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"inherit";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:14:"42-revision-29";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-02-01 17:56:47";s:17:"post_modified_gmt";s:19:"2012-02-01 17:56:47";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:42;s:4:"guid";s:37:"http://localhost:8888/42-revision-29/";s:10:"menu_order";i:0;s:9:"post_type";s:8:"revision";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}

@@ -1,0 +1,4851 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: multipress/lib/setup/panel/extra.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/fields.php:1
+msgid " Attached "
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/children_posts.php:300
+#: multipress/lib/widget/tabber.php:455
+#: multipress/lib/widget/latest_posts.php:110
+#: multipress/lib/widget/featured_posts.php:285
+msgid " Off"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/custom_post.php:1
+msgid " Posts' list"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid " Style customizations for archive page title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid " Style customizations for post content from archive"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid " Style customizations for post title from archive"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid " name"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachment.php:1
+msgid " title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachment.php:1
+msgid " to this "
+msgstr ""
+
+#. Text in function
+#: multipress/comments.php:24
+msgid "%1$s&nbsp;&nbsp;%2$s"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "%d (%d items)"
+msgstr ""
+
+#. Text in function
+#: multipress/templates/pagination.php:1
+msgid "&laquo; Previous"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/load.php:1
+msgid "- Select google font -"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/top_authors.php:47
+#: multipress/lib/widget/tabber.php:357
+#: multipress/lib/widget/tabber.php:359
+#: multipress/lib/widget/featured_posts.php:192
+#: multipress/lib/widget/featured_posts.php:194
+msgid "30 days"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "404 - error page"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/top_authors.php:46
+#: multipress/lib/widget/tabber.php:351
+#: multipress/lib/widget/tabber.php:353
+#: multipress/lib/widget/featured_posts.php:186
+#: multipress/lib/widget/featured_posts.php:188
+msgid "7 days"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "<h3>Transaction details</h3>"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "A new post is awaiting your moderation"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "A new post is awaiting your moderation."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "A video post must have a featured video."
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/sold_items.php:33
+#: multipress/templates/my_payments.php:18
+msgid "Action"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/attachment.php:1
+#: multipress/lib/core/resources.php:1
+#: multipress/lib/core/register.php:1
+#: multipress/lib/core/sidebar.php:1
+msgid "Add"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Add New "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "Add New Slideshow"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/table.php:51
+msgid "Add Table"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/CosmoUploader.php:226
+#: multipress/lib/core/CosmoUploader.php:229
+#: multipress/lib/core/CosmoUploader.php:283
+#: multipress/lib/core/CosmoUploader.php:286
+msgid "Add URL"
+msgstr ""
+
+#. Text in function
+#: multipress/comments.php:108
+msgid "Add comment"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:466
+msgid "Add file"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/custom_post.php:201
+msgid "Add more"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:365
+msgid "Add mp3 audio file"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/attachment.php:1
+#: multipress/lib/core/resources.php:1
+msgid "Add new"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Add new "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Add new child"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Add new custom post "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/sidebar.php:1
+msgid "Add new sidebar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/sidebar.php:1
+msgid "Add new sidebar "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+msgid "Add new taxonomy"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:83
+msgid "Add picture"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:272
+msgid "Add text"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "Add to Program"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Add to Slideshow"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:180
+msgid "Add video"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Additional Info"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/table.php:20
+msgid "Additional class:"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/box.php:456
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/post.php:24
+#: multipress/lib/core/tools.php:1
+msgid "Administrator"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Advanced"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Align center"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Align justify"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Align left"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Align none"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Align right"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "All "
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:66
+msgid "Already a member?"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "An image post must have a featured image. "
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tweets.php:47
+msgid "Animated"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Appearence - Background"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "April"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Archive by category"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Archive text style"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Archive this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Are you sure ?"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Are you sure you want to delete slider?"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/additional.php:1
+msgid "Are you sure you want to delete this additional field?"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/map.php:178
+msgid "Are you sure you want to delete this marker?"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/program.php:1
+#: multipress/lib/core/attachment.php:1
+#: multipress/lib/core/resources.php:1
+#: multipress/lib/core/attachdocs.php:1
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Are you sure you want to remove all Likes for this custom posts?"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:41
+msgid "Arrow"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Articles posted by "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachment.php:1
+#: multipress/lib/core/register.php:1
+msgid "Attach"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachment.php:1
+msgid "Attach "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachdocs.php:1
+msgid "Attach Document"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Attached Documents"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachdocs.php:1
+msgid "Attached document"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Attachment"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Attachments"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/post_item.php:74
+msgid "Audio"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Audio File is required. "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/audio-player.php:1
+msgid "Audio clip: Adobe Flash Player (version 9 or above) is required to play this audio clip. Download the latest version <a href=\"%s\" title=\"Download Adobe Flash Player\">here</a>. You also need to have JavaScript enabled in your browser."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "August"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Australian Dollar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/post.php:24
+#: multipress/lib/core/tools.php:1
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: multipress/author.php:10
+msgid "Author archives"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Available quantity"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:477
+msgid "Be descriptive or interesting!"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:99
+msgid "Biographical information"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Blink"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: multipress/archive.php:9
+msgid "Blog archives"
+msgstr ""
+
+#. Text in function
+#: multipress/index.php:16
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Blog page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Blogging"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:85
+#: multipress/lib/widget/social_media.php:96
+msgid "Blue"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Bottom margin ( px )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Bottom padding ( px )"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:94
+msgid "Box content"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:63
+msgid "Box url"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Brazilian Real (only for Brazilian members)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "British Pound"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/main.php:10
+msgid "Button"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/transactions_details.php:11
+msgid "Buyer_name"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/post.php:37
+#: multipress/templates/author-box.php:25
+#: multipress/templates/page/meta/vertical.php:7
+#: multipress/templates/single/meta/vertical.php:7
+msgid "By"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Canadian Dollar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/program.php:1
+#: multipress/lib/core/resources.php:1
+#: multipress/lib/core/attachdocs.php:1
+#: multipress/lib/core/sidebar.php:1
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+#: multipress/post_item.php:510
+#: multipress/lib/core/taxonomy.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: multipress/category.php:9
+msgid "Category archives"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/category_icons.php:1
+msgid "Category icons"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/category_icons.php:1
+msgid "Category with representative icons"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: multipress/templates/sold_items.php:56
+msgid "Check details"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/children_posts.php:146
+msgid "Children custom post type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/children_posts.php:1
+#: multipress/lib/widget/children_posts.php:53
+msgid "Children posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/fields.php:1
+msgid "Choose File"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Choose Yes to display login link and user menu in header area"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Choose which default value (Yes or No) will be displayed for author box"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Choose which default value (Yes or No) will be displayed for post archiving"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Choose which default value (Yes or No) will be displayed for post meta"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Choose which default value (Yes or No) will be displayed for related posts on posts page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Choose which default value (Yes or No) will be displayed for social sharing on posts"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/CosmoUploader.php:204
+msgid "Click on a thumbnail to make it featured. "
+msgstr ""
+
+#. Text in function
+#: multipress/user_profile.php:62
+msgid "Click on picture to change it."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/fields.php:1
+#: multipress/lib/core/api-call.php:1
+msgid "Close"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:42
+msgid "Color"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/main.php:9
+msgid "Columns"
+msgstr ""
+
+#. Text in echo
+#: multipress/comments.php:83
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/comments.php:1
+#: multipress/comments.php:83
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/paypal/order_review.php:1
+msgid "Confirm"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:243
+#: multipress/templates/page/meta/vertical.php:38
+#: multipress/templates/page/meta/horizontal.php:18
+#: multipress/templates/single/meta/vertical.php:38
+#: multipress/templates/single/meta/horizontal.php:18
+msgid "Confirm to delete this post."
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:83
+msgid "Contact email"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Contact email for pending posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "Contact email: "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "Contact name: "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "Contact phone: "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/contact.php:1
+msgid "Contact us"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:56
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/post.php:24
+#: multipress/lib/core/tools.php:1
+msgid "Contributor"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Copy"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Copyright text"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "CosmoThemes notifications"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment_statstics.php:1
+msgid "Create a blank page then select it from the list to generate My Payments page, a page where the user will be able to see his purchases"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Create a blank page then select it from the list to generate My Posts page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Create a blank page then select it from the list to generate My Settings page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Create a blank page then select it from the list to generate My Voted Posts page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Create a blank page then select it from the list to generate the Login page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Create a blank page then select it from the list to generate the Shopping cart page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Create different types of custom posts: payments, locations, papers, people, general, etc."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/table.php:27
+msgid "Custom CSS styles:"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Custom Posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Custom favicon"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Custom logo URL"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/box.php:508
+msgid "Custom meta box for : "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Custom posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/sidebar.php:1
+msgid "Custom sidebars"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Czech Koruna"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/invoice.php:1
+msgid "DATE"
+msgstr ""
+
+#. Text in function
+#: multipress/archive.php:9
+msgid "Daily archives"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Danish Krone"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/transactions_details.php:12
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "December"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:40
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Default posts status"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "Default slideshow"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/map.php:178
+msgid "Del Marker"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/classes/post.php:246
+#: multipress/lib/core/additional.php:1
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/slideshow.php:38
+#: multipress/lib/core/program.php:1
+#: multipress/lib/core/attachment.php:1
+#: multipress/templates/page/meta/vertical.php:39
+#: multipress/templates/page/meta/horizontal.php:19
+#: multipress/templates/single/meta/vertical.php:39
+#: multipress/templates/single/meta/horizontal.php:19
+#: multipress/lib/core/resources.php:1
+#: multipress/lib/core/attachdocs.php:1
+#: multipress/lib/core/sidebar.php:1
+msgid "Delete"
+msgstr ""
+
+#. Text in function
+#: multipress/front-page.php:285
+#: multipress/single.php:299
+#: multipress/lib/core/attachdocs.php:1
+msgid "Demo"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/paypal/order_confirm.php:1
+msgid "Detailed Error Message: "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/contact.php:1
+msgid "Display Contact form"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/tweets.php:1
+msgid "Display Latest tweets"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Display border around the featured image"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/children_posts.php:1
+msgid "Display children posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Display featured image inside page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Display featured image inside post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/social_media.php:1
+msgid "Display list of social media icons"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Display next and previous butttons"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Display slideshow under header"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/sponsors.php:109
+msgid "Display sponsors"
+msgstr ""
+
+#. Text in function
+#: multipress/front-page.php:285
+#: multipress/single.php:299
+#: multipress/templates/my_payments.php:42
+msgid "Download"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/audio-player.php:1
+msgid "Download audio file"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Download ticket"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/contact.php:41
+msgid "Drag and drop the marker location. To use google map, set the key in panel management"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:83
+msgid "E-mail *"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/post.php:46
+#: multipress/lib/classes/post.php:241
+#: multipress/lib/core/slideshow.php:38
+#: multipress/lib/core/program.php:1
+#: multipress/templates/page/meta/vertical.php:34
+#: multipress/templates/page/meta/horizontal.php:14
+#: multipress/templates/single/meta/vertical.php:34
+#: multipress/templates/single/meta/horizontal.php:14
+#: multipress/comments.php:49
+#: multipress/lib/core/attachdocs.php:1
+#: multipress/lib/core/sidebar.php:1
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Edit "
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:365
+msgid "Edit audio file"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:466
+msgid "Edit file"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/extra.php:1
+msgid "Edit general custom css"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/extra.php:1
+msgid "Edit header custom css"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:83
+msgid "Edit picture"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/classes/post.php:241
+#: multipress/lib/core/slideshow.php:38
+#: multipress/templates/page/meta/vertical.php:32
+#: multipress/templates/page/meta/horizontal.php:12
+#: multipress/templates/single/meta/vertical.php:32
+#: multipress/templates/single/meta/horizontal.php:12
+msgid "Edit post"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:272
+msgid "Edit text"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:180
+msgid "Edit video"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/post.php:24
+#: multipress/lib/core/tools.php:1
+msgid "Editor"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Email content"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "Email sent successfully "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Email subject"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:124
+msgid "Emails don't match"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/extra.php:1
+msgid "Enable CosmoThemes news notification"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Enable Developer/Sandbox Testing?"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable Likes for standard posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Enable audio submitting"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable author box"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable author box for pages"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Enable edit / delete options in meta"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Enable file submitting"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Enable image submitting"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable meta"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable meta for posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/extra.php:1
+msgid "Enable notification about new theme version"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable page source"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/featured_posts.php:133
+msgid "Enable please posts voting"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable posts archiving"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable posts source"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable pretty-photo ligthbox"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable similar posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Enable social sharing"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Enable text submitting"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Enable user login"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Enable user registration on this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Enable video submitting"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "Ends at"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:129
+#: multipress/login.php:136
+msgid "Enter a username"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Enter a valid email address if you want to be notified via email when a new post is awaiting moderation"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Enter the email address you have associated with your PayPal&reg; Business account."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Enter the price"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:119
+msgid "Enter your e-mail and e-mail verification"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Error 404"
+msgstr ""
+
+#. Text in function
+#: multipress/404.php:9
+msgid "Error 404, page, post or resource can not be found"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/paypal/order_confirm.php:1
+msgid "Error Code: "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/paypal/order_confirm.php:1
+msgid "Error Severity Code: "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/paypal/order_confirm.php:1
+msgid "Error getting responce from PayPal"
+msgstr ""
+
+#. Text in echo
+#: multipress/js/all.js.php:20
+msgid "Error, fill all required fields ( email )"
+msgstr ""
+
+#. Text in echo
+#: multipress/js/all.js.php:21
+msgid "Error, fill all required fields ( message )"
+msgstr ""
+
+#. Text in echo
+#: multipress/js/all.js.php:19
+msgid "Error, fill all required fields ( name )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Error, please select \"ico\" type media file"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/slideshow.php:38
+#: multipress/lib/core/program.php:1
+#: multipress/lib/core/resources.php:1
+#: multipress/lib/core/attachdocs.php:1
+#: multipress/lib/core/sidebar.php:1
+msgid "Error, try again"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Euro"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Event"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Event registeration and paid attending"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/post_item.php:160
+#: multipress/post_item.php:254
+#: multipress/post_item.php:346
+#: multipress/post_item.php:447
+#: multipress/post_item.php:548
+msgid "Example: http://cosmothemes.com"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Excerpt length (grid view)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Excerpt length (list view)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/extra.php:1
+msgid "Export custom posts structure"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Extra options"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Extra options: Import / Export data, custom CSS, notifications, etc"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/facebook.php:37
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:63
+msgid "Facebook ID"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/featured_posts.php:1
+msgid "Featured posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "February"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Field label"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Field type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Fields"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:77
+#: multipress/lib/core/attachdocs.php:1
+msgid "File"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "File is required. "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/help.php:1
+msgid "First help short description"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/help.php:1
+msgid "First help title"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:75
+msgid "First name"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Fixed"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Fixed width layout"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:78
+msgid "Flickr ID (<a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/flickr.php:78
+msgid "Flickr photos"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Floating header"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Font Family"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Font Weight"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/actions.php:1
+msgid "Footer area"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Format"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "From here you can adjust the styles for text on mainpage widgets"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "From here you can adjust the styles for text on sidebar widgets"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "From here you can adjust the styles for the slideshow"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:572
+msgid "Front-end submission is disabled."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Front-end submit page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Front-end submitting"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Front-end submitting settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Full Width"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/single/meta/hotkeys.php:42
+msgid "Full size"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Full width"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/resources.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General archive description"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General archive settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General likes description."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General likes settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General page description for custom sidebars."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General page description."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General pages description."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General pages settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General posts settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General theme settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "General theme style"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Generate"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Generate Likes"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Generate random number of Likes for posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Generate random number of Likes for posts."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/paypal/order_confirm.php:1
+msgid "GetExpressCheckoutDetails API call failed. <br>"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Grand total"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:84
+msgid "Green"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Grid view"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+msgid "Hierarchical taxonomy"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+#: multipress/lib/core/menu.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Horizontal"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Hover text color"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Hover text decoration"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Hungarian Forint"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "If enabled featured images will be displayed both on category and post page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "If enabled featured images will be inside page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "If enabled users will be able to submit Audio posts from front end"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "If enabled users will be able to submit File posts (attachments) from front end"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "If enabled users will be able to submit Image posts from front end"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "If enabled users will be able to submit Text posts from front end"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "If enabled users will be able to submit Video posts from front end"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "If not completed then Title will link to the selected post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "If not completed will use post excerpt (first 180 chars) or post content (first 180 chars)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "If not completed will use post title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "If not uploaded will use post Featured image"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "If set No will use WordPress time format"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/post_item.php:65
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Image background attachment type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Image background position"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Image background repeat"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Image logo"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Images inside posts will open inside a fancy lightbox"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Import / Export"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Import / Export Structure"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/extra.php:1
+msgid "Import Structure"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/extra.php:1
+msgid "Import custom posts structure"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/top_authors.php:113
+msgid "In order for this widget to function please install WordPress JetPack plugin"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "In your PayPal&reg; account, go to: Profile -> Request API Credentials."
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/main.php:12
+msgid "Info Box"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Input with short hint"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/contact.php:46
+msgid "Insert Contact Form"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:104
+msgid "Insert infobox"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Israeli New Shekel"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/my_payments.php:14
+msgid "Item"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/CosmoUploader.php:276
+msgid "JPEG, GIF or PNG."
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/CosmoUploader.php:204
+msgid "JPEG, GIF or PNG. "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "January"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Japanese"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/tweets.php:201
+msgid "Join the conversation"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "July"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "June"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:79
+msgid "Last name"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/flickr.php:74
+msgid "Latest Photo"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/latest_posts.php:1
+msgid "Latest Posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "Latest custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "Latest post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "Latest post ( any types custom posts ) "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/latest_posts.php:1
+msgid "Latest posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/tweets.php:1
+msgid "Latest tweets"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/setup/panel.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for 404 page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for archive page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for attachment page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for author page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for blog page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for categories page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for mainpage"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for search page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for single post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Layout for tags page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Layout settings"
+msgstr ""
+
+#. Text in echo
+#: multipress/page.php:192
+#: multipress/single.php:295
+#: multipress/comments.php:108
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:378
+#: multipress/lib/widget/tags.php:95
+msgid "Leave blank to show all tags"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Left "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Left margin ( px )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Left padding ( px )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Left sidebar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Likes"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/box.php:508
+msgid "Likes Settings"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:73
+msgid "LinkedIn Public Profile URL"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "List view"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Location"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:66
+msgid "Log in here"
+msgstr ""
+
+#. Text in function
+#: multipress/comments.php:108
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: multipress/comments.php:108
+msgid "Log out?"
+msgstr ""
+
+#. Text in function
+#: multipress/comments.php:108
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: multipress/page.php:37
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Logo type "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Long text input"
+msgstr ""
+
+#. Text in echo
+#: multipress/login.php:154
+msgid "Lost your password"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:100
+msgid "Lost your password?"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/CosmoUploader.php:204
+msgid "MP3 only. "
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/CosmoUploader.php:204
+msgid "MP4 only. "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/actions.php:1
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Mainpage"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/actions.php:1
+msgid "Mainpage bottom side"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/actions.php:1
+msgid "Mainpage content"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Mainpage resource type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/actions.php:1
+msgid "Mainpage top side"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Mainpage widgets"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Mainpage widgets text style"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Malaysian Ringgit (only for Malaysian members)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Map"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "March"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/map.php:178
+msgid "Marker properties"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "May"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Menu labels text style"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Menu settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Menu settings."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Menus"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/contact.php:73
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Mexican Peso"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Minimum number of Likes to set Featured"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachdocs.php:1
+msgid "Modify attached document"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "Modify event"
+msgstr ""
+
+#. Text in function
+#: multipress/archive.php:9
+msgid "Monthly archives"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Move"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+msgid "Multiple Titles"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/single/cart.php:9
+msgid "My cart"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "New "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "New Taiwan Dollar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "New Zealand Dollar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "New email from"
+msgstr ""
+
+#. Text in function
+#: multipress/templates/pagination.php:1
+msgid "Next &raquo;"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/fields.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "No Repeat"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:109
+msgid "No account?"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/additional.php:1
+msgid "No additional fields found"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:97
+msgid "No background"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/sold_items.php:71
+msgid "No result found"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/sponsors.php:127
+msgid "No results"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "No sliders. To create a slide go to "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "No slideshow items found"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "None decoration"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Norwegian Krone"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachdocs.php:1
+msgid "Not found attched documents"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Nothing found in Trash"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Notifications"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "November"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/top_authors.php:104
+msgid "Number authors to dislay"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/table.php:13
+msgid "Number of Columns:"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/table.php:8
+msgid "Number of Rows:"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/comments.php:181
+#: multipress/lib/widget/tabber.php:371
+msgid "Number of comments"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/featured_posts.php:171
+msgid "Number of featured posts"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:336
+msgid "Number of hot posts"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tweets.php:43
+msgid "Number of latest tweets to show"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:366
+msgid "Number of new posts"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/flickr.php:65
+msgid "Number of photos"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/children_posts.php:137
+#: multipress/lib/widget/custom_post.php:203
+#: multipress/lib/widget/latest_posts.php:161
+msgid "Number of posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Number of related posts (full width)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Number of related posts (with sidebar)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Number of similar posts (full width)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Number of similar posts (with sidebar)"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/sponsors.php:51
+msgid "Number of sponsors to show"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:376
+#: multipress/lib/widget/tags.php:93
+msgid "Number of tags"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "October"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/map.php:178
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/program.php:1
+#: multipress/lib/core/resources.php:1
+#: multipress/lib/core/attachdocs.php:1
+#: multipress/lib/core/sidebar.php:1
+msgid "Ok"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Only enable this if you have provided Sandbox credentials above. <br/> This puts the API, IPN, PDT and Form/Button Generators all into Sandbox mode."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Opacity of the menu bar"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/custom_post.php:216
+msgid "Open posts in lightbox window"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Open shopping cart"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/box.php:508
+msgid "Other Settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Overline"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/invoice.php:1
+msgid "PRICE"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+#: multipress/lib/classes/post.php:411
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Page Text for preview "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Page Title styles"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Page and single post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Pages text style"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Paper"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Parent "
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/children_posts.php:45
+msgid "Parent custom post type"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:91
+msgid "Password *"
+msgstr ""
+
+#. Text in echo
+#: multipress/login.php:154
+msgid "Password Lost and Found"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:78
+msgid "Password:"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Paste"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Paste your Google Analytics or other tracking code here.<br />It will be added into the footer of this theme"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "PayPal Settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "PayPal Settings."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "PayPal&reg; Account Details ( required, if using PayPal&reg; )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Payments"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Pending"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "People"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/featured_posts.php:176
+msgid "Period of featured posts"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:341
+msgid "Period of hot posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:227
+#: multipress/lib/core/text.php:1
+msgid "Permalink to "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Philippine Peso"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/flickr.php:78
+msgid "Photo Gallery"
+msgstr ""
+
+#. Text in echo
+#: multipress/comments.php:48
+msgid "Pingback"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Please select 'ico' type media file. Make sure you allow uploading 'ico' type in General Settings -> Upload file types"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/custom_post.php:87
+msgid "Please select at least one post type"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/sponsors.php:55
+msgid "Please select the cutom post type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Please specify quantity"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Polish Zloty"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Post Title styles"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Post content text styles"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Post source"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Post text style"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Post title for grid view"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Post title for list view"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Post title for preview "
+msgstr ""
+
+#. Text in function
+#: multipress/index.php:16
+msgid "Post type "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Posts  Settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Posts Settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Posts tagged"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/custom_post.php:209
+msgid "Posts view"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Preview Text"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+#: multipress/templates/sold_items.php:31
+#: multipress/templates/my_payments.php:16
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+#: multipress/templates/sold_items.php:30
+#: multipress/templates/my_payments.php:15
+msgid "Product"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:52
+msgid "Profile picture"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Program builder"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "Program event"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "Program is empty"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/resources.php:1
+msgid "Properties"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Properties "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Published"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+#: multipress/templates/sold_items.php:32
+#: multipress/templates/my_payments.php:17
+msgid "Quantity"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Quantity sold"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/contact.php:1
+msgid "Quick contact form"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/slideshow.php:100
+msgid "Quick news"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/flickr.php:73
+msgid "Random Photo"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/classes/post.php:149
+#: multipress/templates/slideshow.php:95
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: multipress/page.php:37
+msgid "Recover password"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:100
+msgid "Register"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:109
+msgid "Register here"
+msgstr ""
+
+#. Text in function
+#: multipress/page.php:37
+msgid "Registration"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Registration is required to Like a post"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:160
+msgid "Registration successful"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/box.php:508
+msgid "Related Posts"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/single/related.php:47
+msgid "Related posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Related posts criteria"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:82
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Remove Image"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Remove Likes"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Remove all Likes for this costom posts type"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:63
+msgid "Remove avatar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Remove item"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/classes/post.php:246
+#: multipress/templates/page/meta/vertical.php:37
+#: multipress/templates/page/meta/horizontal.php:17
+#: multipress/templates/single/meta/vertical.php:37
+#: multipress/templates/single/meta/horizontal.php:17
+msgid "Remove post"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:95
+msgid "Repeat password *"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:27
+msgid "Repeat your email"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:103
+msgid "Reset"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Reset Likes limit"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/fields.php:1
+msgid "Reset Value"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Resources"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/help.php:1
+msgid "Return URL"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:75
+msgid "Right Description"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:69
+msgid "Right Title"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:81
+msgid "Right color"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Right margin ( px )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Right padding ( px )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Right sidebar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Same Category"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Same tags"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Scroll"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/top_authors.php:109
+#: multipress/lib/widget/comments.php:186
+#: multipress/lib/widget/children_posts.php:142
+#: multipress/lib/widget/latest_posts.php:166
+#: multipress/lib/widget/featured_posts.php:201
+#: multipress/lib/widget/tags.php:99
+msgid "Scrollable"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Search "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+#: multipress/search.php:9
+msgid "Search results for"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachment.php:1
+msgid "Select"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/children_posts.php:53
+msgid "Select "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Select Cancel Page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/children_posts.php:149
+msgid "Select Custom Post Type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Select Log In page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment_statstics.php:1
+msgid "Select My Payments page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Select My Posts page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Select My Settings page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Select My Voted Posts page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Select Return Page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment_statstics.php:1
+msgid "Select Sold Items page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Select a blank page from the list "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment_statstics.php:1
+msgid "Select a blank page from the list for Sold Items page, a page form where the admin will be able to see the sold items"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Select currency"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Select currency for you items price"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "Select custom post for latest quick news"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Select custom post type"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/sponsors.php:33
+msgid "Select custompost type"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:92
+msgid "Select icons style"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/custom_post.php:166
+#: multipress/lib/widget/custom_post.php:186
+#: multipress/lib/widget/custom_post.php:236
+msgid "Select item"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+msgid "Select item from list"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Select layout for this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "Select mainpage resource type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Select meta type display "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment_statstics.php:1
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Select page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "Select page to display on mainpage"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/children_posts.php:47
+msgid "Select parent custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Select position for social sharing on single post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Select post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Select post format "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "Select post to display on mainpage"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/custom_post.php:163
+#: multipress/lib/widget/custom_post.php:183
+#: multipress/lib/widget/custom_post.php:233
+msgid "Select post type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Select shopping cart page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for 404 template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for archive template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for attachment template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for author template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for blog page template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for category template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for mainpage template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for page template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for search template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for single post template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Select sidebar for tag template"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Select sidebar for this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Select slider type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Select slideshow to display on this single post"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/table.php:34
+msgid "Select table style:"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+msgid "Select taxonomy"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+#: multipress/lib/core/taxonomy.php:1
+msgid "Select taxonomy for latest quick news"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+#: multipress/lib/core/taxonomy.php:1
+msgid "Select termen for latest quick news"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Select theme background"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "Select type of Quick-news"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "Selected page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "Selected post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "Sent via contact form."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "September"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Set \"Yes\" if you want to archive the event. If set \"Yes\" this event will disappear from \"Event list\" widget and \"Conferences\" short code"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/map.php:178
+msgid "Set Marker"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "Set Quick-news length"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/box.php:508
+msgid "Set active boxes"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Set background color"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Set background color for this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Set content background color"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Set footer background color"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/menu.php:1
+msgid "Set limit for footer menu"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/menu.php:1
+msgid "Set limit for main menu"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/map.php:178
+msgid "Set marker address"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/map.php:178
+msgid "Set marker description"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/map.php:178
+msgid "Set marker telephone"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/map.php:178
+msgid "Set marker title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Set minimum number of Likes to change post into Featured"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Set number of words that will be displayed on archive pages for each post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/menu.php:1
+msgid "Set the number of visible menu items. Remaining menu<br />items will be hidden"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/menu.php:1
+msgid "Set the number of visible menu items. Remaining menu<br />items will be shown in the drop down menu item \"More\""
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/audio-player.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Settings for for transactions Statstics."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Settings will apply when fixed width is set"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Shopping cart is empty"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Short Codes"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/paypal/order_confirm.php:1
+msgid "Short Error Message: "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Short text input"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:88
+msgid "Show RSS"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Show WordPress admin bar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show author box on this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Show breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show post Likes"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show post likes on this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show post meta"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show post meta on this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show related posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show related posts on this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show social sharing in templates with posts list"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Show social sharing on this post"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/flickr.php:71
+msgid "Showing Method"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/sidebar.php:1
+msgid "Sidebar Title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Sidebar widgets"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Sidebars"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Sidebars widgets text style"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "Similar posts criteria"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Simple image"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Simple post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Simple text"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Singapore Dollar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+msgid "Single Title"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:22
+msgid "Size"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Slider URL"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Slider description"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Slider image"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Slider title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Slideshow"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Slideshow background color"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Slideshow general settings."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Slideshow links hover color"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Slideshow manager"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "Slideshow play speed"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Slideshow settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Slideshow style"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Slideshow text color"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/resources.php:1
+msgid "Slug"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Slug is an unique identifier of this type of post, it is used in url to view single.php template."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+msgid "Slug is unique identifier of this type of taxonomy, it is used in url to view archive.php template."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/box.php:508
+msgid "Social Settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/social_media.php:1
+msgid "Social media"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Social settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Social sharing position"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/tabber.php:91
+#: multipress/lib/widget/featured_posts.php:67
+msgid "Sorry, no hot posts found."
+msgstr ""
+
+#. Text in function
+#: multipress/index.php:16
+#: multipress/author.php:19
+#: multipress/tag.php:9
+#: multipress/category.php:9
+msgid "Sorry, no posts found"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/tabber.php:157
+msgid "Sorry, no posts found."
+msgstr ""
+
+#. Text in function
+#: multipress/search.php:9
+msgid "Sorry, no results found for"
+msgstr ""
+
+#. Text in function
+#: multipress/front-page.php:285
+#: multipress/post_item.php:157
+#: multipress/post_item.php:545
+#: multipress/page.php:166
+#: multipress/single.php:299
+msgid "Source"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/sponsors.php:109
+msgid "Sponsors"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Standard"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "Start at"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "Start typing <strong>page</strong> title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/setup/panel/slideshow.php:1
+#: multipress/lib/core/slideshow.php:38
+msgid "Start typing the"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/children_posts.php:53
+#: multipress/lib/core/slideshow.php:38
+#: multipress/lib/core/attachment.php:1
+msgid "Start typing the "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "Starts at"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachment.php:1
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Strike"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+#: multipress/lib/core/shcode/box.php:37
+msgid "Style"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/contact.php:76
+msgid "Submit form"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:170
+#: multipress/post_item.php:263
+#: multipress/post_item.php:355
+#: multipress/post_item.php:457
+#: multipress/post_item.php:557
+msgid "Submit post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/post.php:24
+#: multipress/lib/core/tools.php:1
+#: multipress/templates/page/meta/vertical.php:9
+#: multipress/templates/single/meta/vertical.php:9
+msgid "Subscriber"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Success. Your post is awaiting moderation"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Success. Your post is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/slideshow.php:38
+#: multipress/lib/core/program.php:1
+#: multipress/lib/core/resources.php:1
+#: multipress/lib/core/attachdocs.php:1
+#: multipress/lib/core/sidebar.php:1
+msgid "Successfully added"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Successfully executed"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/core/taxonomy.php:1
+msgid "Successfully modified"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+#: multipress/lib/core/attachdocs.php:1
+msgid "Successfully modify"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Swedish Krona"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Swiss Franc"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/invoice.php:1
+msgid "TIME"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/tabber.php:1
+msgid "Tabber"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/main.php:14
+msgid "Table"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/table.php:3
+msgid "Table title:"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/main.php:11
+msgid "Tabs &amp; Toggles"
+msgstr ""
+
+#. Text in function
+#: multipress/tag.php:9
+msgid "Tag archives"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/slideshow.php:1
+#: multipress/post_item.php:148
+#: multipress/post_item.php:537
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/widget/tags.php:1
+#: multipress/lib/setup/panel/layout.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+msgid "Taxonomy for : "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/box.php:456
+msgid "Tel"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Tesing input with color piker."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Tesing input with upload ID."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Tesing input with upload."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Tesing input with."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Test autocomplete"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Test color piker"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Test help icon"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Test upload"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Test upload ID"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:71
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Text align"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Text color"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:486
+msgid "Text content"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Text decoration"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Text for preview "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Text line height ( px )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Text logo"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Thai Baht"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Thank you"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "The content of the email the will be sent to customer after the succesfull transaction. You can use %customer_name%, and it will be replaced with the name of the buyer."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/help.php:1
+msgid "The landing page on the merchant\\'s site<br> where the shopper is taken to when they<br> cancel the PayPal payment review.	"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/help.php:1
+msgid "The landing page on the merchant\\'s site<br> where the shopper returns to after the <br>Payment review on PayPal. This is <br>usually the Order review page."
+msgstr ""
+
+#. Text in echo
+#: multipress/login.php:154
+msgid "The password you entered"
+msgstr ""
+
+#. Text in function
+#: multipress/user_profile.php:9
+#: multipress/user_profile_update.php:1
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "The subject of the email the will be sent to customer after the succesfull transaction."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Theme general settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Theme general settings: styles, layout, slideshows, etc."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Theme settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/comments.php:141
+#: multipress/lib/widget/tabber.php:343
+msgid "There are no comments"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/tabber.php:292
+#: multipress/lib/widget/tags.php:56
+msgid "There are no tags."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "This implementation works in conjunction with <a href='https://www.paypal.com/us/mrb/pal=KMEJ5UCMUQVAW'>PayPal&reg; Website Payments Standard</a>, for businesses.<br> You do NOT need a PayPal&reg; Pro account. 
+    				You just need to <a href='http://pages.ebay.com/help/buy/questions/upgrade-paypal-account.html'>upgrade</a> your Personal PayPal&reg; account to a<br> Business status, which is free. A PayPal&reg; account can be upgraded from a 
+    				Personal account to a Business<br> account, simply by going to the `Profile` button under the `My Account` tab, selecting the `Personal Business</br> Information` 
+    				button, and then clicking the `Upgrade Your Account` button.<br/><br/>
+
+					<strong>*PayPal&reg; API Credentials*</strong> Once you have a PayPal&reg; Business account, you'll need access to your <a href='https://cms.paypal.com/us/cgi-bin/?&cmd=_render-content&content_ID=developer/e_howto_api_NVPAPIBasics#id084E30I30RO'>
+					PayPal&reg;<br> API Credentials</a>. Log into your PayPal&reg; account, and navigate to Profile -> Request API Credentials. You'll choose<br> ( PayPal&reg; API ), and then choose ( Create Your Own ). Once you've got your API Credentials, 
+					come back and<br> paste them into the fields below. <br/><br/>
+					
+					<b>NOTE! </b> In order to be able to use PayPal you must have CURL enabled.
+					"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/upload.php:1
+msgid "This is the status used for posts submited from front end"
+msgstr ""
+
+#. Text in echo
+#: multipress/comments.php:64
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "This will be the background image for this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "This will enable the author box on pages. Edit user description in <strong>Users</strong> > <strong>Your Profile</strong>"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "This will enable the author box on posts. Edit user description in <strong>Users</strong> > <strong>Your Profile</strong>"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "This will enable the author box on posts. Edit user description in Users -> Your Profile"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/transactions_details.php:10
+msgid "Ticket ID"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Tile"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Tile Horizontally"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Tile Vertically"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/top_authors.php:99
+#: multipress/lib/widget/comments.php:176
+#: multipress/lib/widget/category_icons.php:82
+#: multipress/lib/widget/custom_post.php:153
+#: multipress/post_item.php:473
+#: multipress/lib/widget/contact.php:23
+#: multipress/lib/core/program.php:1
+#: multipress/lib/widget/tabber.php:331
+#: multipress/lib/widget/latest_posts.php:156
+#: multipress/lib/core/shcode/box.php:50
+#: multipress/lib/widget/social_media.php:59
+#: multipress/lib/widget/featured_posts.php:166
+#: multipress/lib/widget/flickr.php:54
+#: multipress/lib/widget/tags.php:88
+#: multipress/lib/widget/tweets.php:35
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/resources.php:1
+msgid "Title (plural)"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/taxonomy.php:1
+#: multipress/lib/core/resources.php:1
+msgid "Title (singular)"
+msgstr ""
+
+#. Text in function
+#: multipress/functions.php:1
+#: multipress/functions.php:1
+msgid "Title for translate"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "Title is required. "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "To moderate the post go to  %s "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "To set a background image go to"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:345
+#: multipress/lib/widget/tabber.php:347
+#: multipress/lib/widget/featured_posts.php:180
+#: multipress/lib/widget/featured_posts.php:182
+msgid "Today"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Tools"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/top_authors.php:66
+msgid "Top Authors"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/top_authors.php:1
+msgid "Top authors"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/top_authors.php:1
+msgid "Top authors. <span class=\"cosmo-widget-red\">(In order for this widget to function please install WordPress JetPack plugin)</span>"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Top margin ( px )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/style.php:1
+msgid "Top menu"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Top padding ( px )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Total price"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Tracking code"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "Transactions Statstics Settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "Turkish Lira (only for Turkish members)"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/single/social.php:3
+#: multipress/templates/social.php:44
+#: multipress/templates/page/social.php:24
+msgid "Tweet"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:68
+msgid "Twitter ID"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tweets.php:39
+msgid "Twitter User Name"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/box.php:8
+#: multipress/lib/core/resources.php:1
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Type here the Copyright text that will appear in the footer.<br />To display the current year use \"%year%\""
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/main.php:13
+msgid "Typography"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/tools.php:1
+msgid "U.S. Dollar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachdocs.php:1
+msgid "URL for demo"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/text.php:1
+msgid "Underline"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/classes/post.php:407
+msgid "Unfortunately we did not find any loved posts."
+msgstr ""
+
+#. Text in echo
+#: multipress/loop-404.php:6
+msgid "Unfortunately we did not find any results for your request."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Unfortunately we do not have enough tickets, please try adding smaller quantity"
+msgstr ""
+
+#. Text in function
+#: multipress/front-page.php:285
+#: multipress/page.php:174
+#: multipress/single.php:299
+msgid "Unknown source"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:104
+msgid "Update"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "Update "
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/panel.php:221
+msgid "Update Settings"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/slideshow.php:38
+msgid "Update Slider"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:170
+#: multipress/post_item.php:263
+#: multipress/post_item.php:355
+#: multipress/post_item.php:457
+#: multipress/post_item.php:557
+msgid "Update post"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/CosmoUploader.php:203
+#: multipress/lib/core/CosmoUploader.php:276
+msgid "Upload a file."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachdocs.php:1
+msgid "Upload document"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Upload or choose image from media library"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachdocs.php:1
+msgid "Upload or select file from media library"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Use Author Box for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Use Facebook comments"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Use Likes for this type of custom posts"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Use archiving for this custom post"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:151
+#: multipress/post_item.php:246
+#: multipress/post_item.php:338
+#: multipress/post_item.php:439
+#: multipress/post_item.php:540
+msgid "Use comma to separate each tag. E.g. design, wtf, awesome."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Use comments for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Use editor for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Use excerpt for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Use featured image for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/general.php:1
+msgid "Use human time"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Use meta for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Use paid attending for this post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Use social sharing for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Use source for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Use this item in header menu"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "Use title for this custom post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "User related posts"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:71
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:74
+msgid "Username:"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/panel.php:226
+msgid "Version"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "Vertical"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/post_item.php:68
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "View "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/category_icons.php:38
+msgid "View all posts filed under %s"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "View type for archive page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "View type for author page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "View type for blog page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "View type for categories page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "View type for search page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/layout.php:1
+msgid "View type for tags page"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/blogging.php:1
+msgid "WARNING! This will reset all current Likes"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+msgid "WARNING! This will reset all current Likes for this custom post type."
+msgstr ""
+
+#. Text in echo
+#: multipress/loop-404.php:6
+msgid "We apologize but this page, post or resource does not exist or can not be found. Perhaps it is necessary to change the call method to this page, post or resource."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/children_posts.php:322
+msgid "We didn't find any children posts"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:87
+#: multipress/comments.php:108
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/social_media.php:95
+msgid "White"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/children_posts.php:133
+#: multipress/lib/setup/panel/style.php:1
+msgid "Widget title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "Widgets"
+msgstr ""
+
+#. Text in function
+#: multipress/archive.php:9
+msgid "Yearly archives"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/fields.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "You are not the author of this post. "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/resources.php:1
+msgid "You can also enable lightbox effects for featured image"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "You can check your post %s here%s."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachdocs.php:1
+msgid "You can download document or select it from media library"
+msgstr ""
+
+#. Text in function
+#: multipress/post_item.php:572
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: multipress/user_profile.php:26
+msgid "You must be logged in to edit your profile."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "You must be logged in to submit a post!"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:411
+msgid "You must be logged in to submit a post! "
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:565
+msgid "You must be logged in to submit an post"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Your PayPal&reg; API Password"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Your PayPal&reg; API Signature"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Your PayPal&reg; API Username"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/payment.php:1
+msgid "Your PayPal&reg; EMail Address"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/contact.php:43
+msgid "Your browser does not support iframes."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "Your cart is currently empty"
+msgstr ""
+
+#. Text in echo
+#: multipress/comments.php:27
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:23
+#: multipress/lib/widget/contact.php:27
+#: multipress/lib/core/contact.php:70
+#: multipress/comments.php:108
+msgid "Your email"
+msgstr ""
+
+#. Text in function
+#: multipress/comments.php:108
+msgid "Your email address will not be published."
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:52
+#: multipress/lib/core/contact.php:67
+#: multipress/comments.php:108
+msgid "Your name"
+msgstr ""
+
+#. Text in function
+#: multipress/login.php:32
+msgid "Your password will be e-mailed to you."
+msgstr ""
+
+#. Text in function
+#: multipress/user_profile.php:9
+msgid "Your profile info was updated."
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/CosmoUploader.php:204
+msgid "ZIP, RAR, PDF or DOC. "
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/cart.php:1
+msgid "add to cart"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/comments.php:124
+#: multipress/lib/widget/custom_post.php:517
+#: multipress/lib/widget/custom_post.php:542
+#: multipress/lib/core/post.php:51
+#: multipress/templates/second-meta.php:43
+#: multipress/lib/widget/tabber.php:254
+#: multipress/templates/page/meta/vertical.php:84
+#: multipress/templates/page/meta/horizontal.php:71
+#: multipress/templates/single/meta/vertical.php:97
+#: multipress/templates/single/meta/horizontal.php:85
+#: multipress/templates/meta.php:20
+#: multipress/lib/widget/tweets.php:198
+msgid "ago"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/comments.php:124
+#: multipress/lib/widget/tabber.php:254
+msgid "at"
+msgstr ""
+
+#. Text in echo
+#: multipress/comments.php:25
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/slideshow.php:103
+msgid "close"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/post.php:81
+#: multipress/templates/page/meta/vertical.php:77
+#: multipress/templates/page/meta/horizontal.php:64
+#: multipress/templates/single/meta/vertical.php:90
+#: multipress/templates/single/meta/horizontal.php:78
+msgid "comment"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/post.php:117
+#: multipress/lib/widget/tabber.php:71
+#: multipress/templates/page/meta/vertical.php:67
+#: multipress/templates/page/meta/vertical.php:79
+#: multipress/templates/page/meta/horizontal.php:54
+#: multipress/templates/page/meta/horizontal.php:66
+#: multipress/templates/single/meta/vertical.php:80
+#: multipress/templates/single/meta/vertical.php:92
+#: multipress/templates/single/meta/horizontal.php:68
+#: multipress/templates/single/meta/horizontal.php:80
+msgid "comments"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/custom_post.php:570
+#: multipress/templates/slideshow.php:95
+#: multipress/templates/social.php:20
+msgid "continue reading"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "custom post builder"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "custom resources builder"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "custom sidebars builder"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/program.php:1
+msgid "date_format"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/likes.php:1
+msgid "dislike this"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "error, fill all required fields ( email )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "error, fill all required fields ( message )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "error, fill all required fields ( name )"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/contact.php:82
+msgid "error, sending email failed"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel.php:1
+msgid "extra options"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:62
+msgid "feat"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:63
+#: multipress/lib/widget/tabber.php:66
+msgid "fresh"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/classes/post.php:398
+msgid "get more"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/core/shcode/contact.php:41
+msgid "here"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/api-call.php:1
+msgid "is available, please update now."
+msgstr ""
+
+#. Text in echo
+#: multipress/login.php:154
+msgid "is incorrect."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/likes.php:1
+msgid "like this"
+msgstr ""
+
+#. Text in function
+#: multipress/post_item.php:572
+msgid "logged in"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/sidebar.php:1
+msgid "main"
+msgstr ""
+
+#. Text in echo
+#: multipress/templates/single/cart.php:16
+msgid "per 1 person"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "ptitle"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/sponsors.php:109
+msgid "recommend to use \"Mainpage bottom side\" sidebar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/custom_post.php:1
+msgid "recommend to use \"Mainpage content\" sidebar"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/social_media.php:1
+#: multipress/lib/widget/tweets.php:1
+msgid "recommend to use \"Mainpage top side\" sidebar"
+msgstr ""
+
+#. Text in echo
+#: multipress/post_item.php:148
+#: multipress/post_item.php:537
+msgid "recommended"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/custom_post.php:164
+#: multipress/lib/widget/custom_post.php:184
+#: multipress/lib/widget/custom_post.php:234
+msgid "remove"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/attachment.php:1
+msgid "required"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/setup/panel/slideshow.php:1
+msgid "slideshow"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "start typing page title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/panel/front-page.php:1
+msgid "start typing post title"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/invoice.php:1
+msgid "start_end_date"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/register.php:1
+msgid "stitle"
+msgstr ""
+
+#. Text in echo
+#: multipress/lib/widget/tabber.php:75
+msgid "tags"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/setup/box.php:1
+#: multipress/lib/widget/children_posts.php:53
+#: multipress/lib/setup/panel/slideshow.php:1
+#: multipress/lib/core/slideshow.php:38
+msgid "title"
+msgstr ""
+
+#. Text in function
+#: multipress/post_item.php:572
+msgid "to submit a post."
+msgstr ""
+
+#. Text in function
+#: multipress/lib/core/api-call.php:1
+msgid "version"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/top_authors.php:113
+msgid "view"
+msgstr ""
+
+#. Text in function
+#: multipress/lib/widget/top_authors.php:113
+msgid "views"
+msgstr ""

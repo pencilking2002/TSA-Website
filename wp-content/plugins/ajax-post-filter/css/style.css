@@ -1,0 +1,15 @@
+li.ajaxFilterItem.filter-selected a{
+	color: #FF0000;
+}
+
+div#progbar-container{
+	width: 200px;
+	height: 50px;
+	background-color: #EEE;
+}
+
+div#progbar{
+	height: 100%;
+	width: 0%;
+	background-color: #BBB;
+}

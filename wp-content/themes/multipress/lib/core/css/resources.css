@@ -1,0 +1,185 @@
+ul.resources-breadcrumbs{
+    margin:0 0 20px 0;
+    padding:0;
+	float: left;
+	width: 100%;
+	
+}
+
+ul.resources-breadcrumbs > li{
+    float:left;
+    margin: 0 0 0 8px;
+	padding: 0 0 0 12px;
+    display: inline-block;
+    width: auto !important;
+	font-weight: bold;
+	background: url(../images/breadcrumbs.arrow.gif) no-repeat left center;
+}
+ul.resources-breadcrumbs > li:first-child {
+	background: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+div.resources-container{
+    width:400px;
+    display: block;
+}
+
+div.resources-container div.resource{
+    width: 80px;
+    height:80px;
+    padding:10px 10px 10px 0;
+    float:left;
+    display: inline-block;
+}
+
+div.resources-container div.resource p{
+    display: table;
+	margin: 0;
+	background: #f3f3f3;
+}
+div.resources-container div.resource p a{
+	text-decoration: none;
+    width: 80px;
+    height:80px;
+    display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+    border: 1px solid #e1e1e1;
+}
+
+div.resources-container div.resource p a:hover{
+    
+}
+
+div.resources-action{
+    display: block;
+    clear: both;
+    padding:10px 10px 10px 0;
+}
+
+div a.add{
+	height: 16px;
+	float: left;
+	padding-left: 22px;
+	margin-right: 20px;
+	background: url(../images/backend.png) no-repeat 0 -224px;
+}
+div.resources-action a.paste{
+	height: 16px;
+	float: left;
+	padding-left: 22px;
+	margin-right: 20px;
+	background: url(../images/backend.png) no-repeat 0 -208px;
+}
+
+div.resource-actionbox{
+    position:absolute;
+    margin: 0 0px 0px 79px;
+    border:1px solid #e1e1e1;
+    display: none;
+    padding:10px;
+    background: #ffffff;
+}
+div.resource-actionbox ul {
+	margin: 0;
+}
+
+div.resource-actionbox a{
+    text-decoration: none;
+    color:#666666;
+}
+
+div.resource-actionbox a:hover{
+    color:#333333;
+}
+
+
+/* box */
+
+div.editbox-submit-action , div.addbox-submit-action{
+    display:block;
+    padding-top: 10px;
+}
+
+div.editbox-submit-action > span, div.addbox-submit-action > span{
+    float:right;
+    margin-left: 3px;
+}
+
+div.editbox-submit-action > span span.generic-field.generic-field-button input[type="button"], 
+div.addbox-submit-action > span span.generic-field.generic-field-button input[type="button"]{
+    padding:3px 10px;
+    height: 20px;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+/* taxonomy */
+div.sidebars-container,
+div.taxonomy-container{
+    width:400px;
+    display: block;
+}
+
+div.sidebars-container div.sidebar,
+div.taxonomy-container div.taxonomy{
+    width: 80px;
+    height:80px;
+    padding:10px 10px 10px 0;
+    float:left;
+    display: table;
+}
+
+div.sidebars-container div.sidebar p,
+div.taxonomy-container div.taxonomy p{
+    width: 80px;
+    height:80px;
+    display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+    border: 1px solid #e1e1e1;
+	background: #f3f3f3;
+}
+div.sidebars-container div.sidebar p:hover,
+div.taxonomy-container div.taxonomy p:hover{
+
+}
+div.sidebar-action,
+div.taxonomy-action{
+    display: block;
+    clear: both;
+	padding:10px 10px 10px 0;
+}
+
+div.sidebar-actionbox,
+div.taxonomy-actionbox{
+    position:absolute;
+    margin: 0 0px 0px 79px;
+    border:1px solid #dedede;
+    display: none;
+    padding:10px;
+    background: #ffffff;
+}
+
+div.sidebar-actionbox a,
+div.taxonomy-actionbox a{
+    text-decoration: none;
+    color:#666666;
+}
+
+div.sidebar-actionbox a:hover,
+div.taxonomy-actionbox a:hover{
+    color:#333333;
+}
+
+/*
+div.metabox-container
+div.metabox-actionbox
+div.metabox-action
+
+*/
+.not-input-generic-field h3 {float: left; width: 100%; margin: 30px 0 20px 0;}

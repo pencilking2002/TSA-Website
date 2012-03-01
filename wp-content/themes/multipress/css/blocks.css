@@ -1,0 +1,20 @@
+.b_page{ width: 930px; margin: 0 auto; position: relative; z-index: 99; display: table;}
+.b:before,.b:after{content:'\0020';display:block;overflow:hidden;visibility:hidden;width:0;height:0}.b:after{clear:both}.b{zoom:1}
+.b{ margin: 0 0 0 30px; }
+.b:first-child{ margin: 0;}
+.w_990{ width: 990px;}
+.w_930{ width: 930px; float: left;}
+.w_850{ width: 850px; float: left;}
+.w_770{ width: 770px; float: left;}
+.w_690{ width: 690px; float: left;}
+.w_640{ width: 640px; float: left;}
+.w_610{ width: 610px; float: left;}
+.w_590{ width: 590px; float: left;}
+.w_530{ width: 530px; float: left;}
+.w_450{ width: 450px; float: left;}
+.w_370{ width: 370px; float: left;}
+.w_290{ width: 290px; float: left;}
+.w_260{ width: 260px; float: left;}
+.w_210{ width: 210px; float: left;}
+.w_130{ width: 130px; float: left;}
+.w_50{ width: 50px; float: left;}

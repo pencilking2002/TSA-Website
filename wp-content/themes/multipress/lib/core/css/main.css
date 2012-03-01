@@ -1,0 +1,16 @@
+.clear{ 
+    display:block;
+    width:100%;
+    clear: both;
+    float: none;
+}
+.full{
+    width:auto;
+    width:700px;
+}
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}

@@ -1,0 +1,422 @@
+# This file is distributed under the same license as the Genesis Slider Plugin package.
+#
+# Weitere deutsche Sprachdateien fuer Genesis Framework, Genesis Child Themes und Genesis Plugins
+# sowie WordPress Plugins und Themes sind hier zu finden:
+# --> http://deckerweb.de/sprachdateien/
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Slider (Plugin) for Genesis Framework\n"
+"Report-Msgid-Bugs-To: http://www.studiopress.com/support/forumdisplay.php?f=142\n"
+"POT-Creation-Date: 2011-08-23 19:52+0000\n"
+"PO-Revision-Date: 2012-01-04 23:44+0100\n"
+"Last-Translator: David Decker <deckerweb.mobil@googlemail.com>\n"
+"Language-Team: DECKERWEB <deckerweb.mobil@googlemail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ genesis-slider
+#: admin.php:75
+msgid "Settings reset."
+msgstr "Einstellungen zurückgesetzt."
+
+#@ genesis-slider
+#: admin.php:77
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#@ genesis-slider
+#: admin.php:90
+msgid "Slider Settings"
+msgstr "Slider-Einstellungen"
+
+#@ genesis-slider
+#: admin.php:112
+msgid "Genesis Slider Settings"
+msgstr "Genesis Slider-Einstellungen"
+
+#@ genesis-slider
+#: admin.php:150
+#: plugin.php:203
+msgid "Genesis - Slider"
+msgstr "Genesis - Slider"
+
+#@ genesis-slider
+#: admin.php:151
+#: admin.php:162
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#@ genesis-slider
+#: admin.php:152
+#: admin.php:163
+msgid "Reset Settings"
+msgstr "Einstellungen zurücksetzen"
+
+#@ genesis-slider
+#: admin.php:152
+msgid "Are you sure you want to reset?"
+msgstr "Sind Sie sicher, dass Sie die Einstellungen zurücksetzen wollen?"
+
+#@ genesis-slider
+#: admin.php:192
+msgid "Type of Content"
+msgstr "Inhaltstyp"
+
+#@ genesis-slider
+#: admin.php:194
+msgid "Would you like to use posts or pages"
+msgstr "Wollen Sie Beiträge (Artikel) oder Seiten nutzen"
+
+#@ genesis-slider
+#: admin.php:213
+msgid "By Taxonomy and Terms"
+msgstr "Nach Taxonomie und Terms"
+
+#@ genesis-slider
+#: admin.php:213
+msgid "Choose a term to determine what slides to include"
+msgstr "Wählen Sie einen Term, um zu bestimmen, welche Slides eingeschlossen (enthalten) sein werden"
+
+#@ genesis-slider
+#: admin.php:217
+msgid "All Taxonomies and Terms"
+msgstr "Alle Taxonomien und Terms"
+
+#@ genesis-slider
+#: admin.php:257
+#, php-format
+msgid "Include or Exclude by %s ID"
+msgstr "Einschließen oder ausschließen nach %s ID"
+
+#@ genesis-slider
+#: admin.php:260
+msgid "Choose the include / exclude slides using their post / page ID in a comma-separated list. (1,2,3,4 for example)"
+msgstr "Wählen Sie ein- oder auszuschließenden Slides aufgrund ihrer Beitrags-/ Seiten-ID aus, in einer kommagetrennten Liste (z.B. 1,2,3,4)"
+
+#@ genesis-slider
+#: admin.php:264
+msgid "Select"
+msgstr "Auswählen"
+
+#@ genesis-slider
+#: admin.php:265
+msgid "Include"
+msgstr "Einschließen"
+
+#@ genesis-slider
+#: admin.php:266
+msgid "Exclude"
+msgstr "Ausschließen"
+
+#@ genesis-slider
+#: admin.php:271
+msgid "List which"
+msgstr "Auflisten welche"
+
+#@ genesis-slider
+#: admin.php:271
+#: admin.php:291
+msgid "ID"
+msgstr "ID"
+
+#@ genesis-slider
+#: admin.php:271
+msgid "to include / exclude. (1,2,3,4 for example)"
+msgstr "ein- oder ausgeschlossen werden soll (z.B. 1,2,3,4)"
+
+#@ genesis-slider
+#: admin.php:277
+msgid "Number of Slides to Show"
+msgstr "Anzahl der Slides, die angezeigt werden sollen"
+
+#@ genesis-slider
+#: admin.php:282
+msgid "Number of Posts to Offset"
+msgstr "Anzahl der Beiträge, die übersprungen werden sollen (Versatz/ Offset)"
+
+#@ genesis-slider
+#: admin.php:287
+msgid "Order By"
+msgstr "Sortieren nach"
+
+#@ genesis-slider
+#: admin.php:289
+msgid "Date"
+msgstr "Datum"
+
+#@ genesis-slider
+#: admin.php:290
+msgid "Title"
+msgstr "Titel"
+
+#@ genesis-slider
+#: admin.php:293
+msgid "Random"
+msgstr "Zufällig"
+
+#@ genesis-slider
+#: admin.php:308
+msgid "Transition Settings"
+msgstr "Einstellungen für die Übergänge"
+
+#@ genesis-slider
+#: admin.php:311
+msgid "Time Between Slides (in milliseconds)"
+msgstr "Zeit zwischen Slides (in Millisekunden)"
+
+#@ genesis-slider
+#: admin.php:316
+msgid "Slide Transition Speed (in milliseconds)"
+msgstr "Slide-Übergangsgeschwindigkeit (in Millisekunden)"
+
+#@ genesis-slider
+#: admin.php:347
+msgid "Display Settings"
+msgstr "Anzeige-Einstellungen"
+
+#@ genesis-slider
+#: admin.php:350
+msgid "Slider Width (in pixels)"
+msgstr "Slider-Breite (in Pixeln)"
+
+#@ genesis-slider
+#: admin.php:355
+msgid "Slider Height (in pixels)"
+msgstr "Slider-Höhe (in Pixeln)"
+
+#@ genesis-slider
+#: admin.php:402
+msgid "Slider Excerpt Width (in pixels)"
+msgstr "Slider-Textauszugsbreite (in Pixeln)"
+
+#@ genesis-slider
+#: admin.php:407
+msgid "Excerpt Location (vertical)"
+msgstr "Platzierung des Textauszugs (senkrecht)"
+
+#@ genesis-slider
+#: admin.php:409
+msgid "Top"
+msgstr "Oben"
+
+#@ genesis-slider
+#: admin.php:410
+msgid "Bottom"
+msgstr "Unten"
+
+#@ genesis-slider
+#: admin.php:415
+msgid "Excerpt Location (horizontal)"
+msgstr "Platzierung des Textauszugs (waagerecht)"
+
+#@ genesis-slider
+#: admin.php:417
+msgid "Left"
+msgstr "Links"
+
+#@ genesis-slider
+#: admin.php:418
+msgid "Right"
+msgstr "Rechts"
+
+#@ genesis-slider
+#: admin.php:428
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#@ genesis-slider
+#: plugin.php:201
+msgid "Displays a slideshow inside a widget area"
+msgstr "Zeigt eine Slideshow innerhalb eines Widget-Bereiches an."
+
+#@ genesis-slider
+#: plugin.php:387
+#, php-format
+msgid "To configure slider options, please go to the <a href=\"%s\">Slider Settings</a> page."
+msgstr "Um die Slider-Einstellungen festzulegen, gehen Sie bitte zur <a href=\"%s\">Slider-Einstellungen-Seite</a>."
+
+#@ genesis-slider
+#: admin.php:322
+#: admin.php:381
+msgid "Select one of the following:"
+msgstr "Wählen Sie eine der folgenden Einstellungen:"
+
+#@ genesis-slider
+#: admin.php:383
+msgid "Display post content"
+msgstr "Inhalt anzeigen"
+
+#@ genesis-slider
+#: admin.php:384
+msgid "Display post excerpts"
+msgstr "Textauszug anzeigen"
+
+#@ genesis-slider
+#: admin.php:389
+msgid "More Text (if applicable)"
+msgstr "Mehr-Text (falls vorhanden)"
+
+#@ genesis-slider
+#: admin.php:394
+msgid "Limit content to"
+msgstr "Inhalt beschränken auf"
+
+#@ genesis-slider
+#: admin.php:396
+msgid "characters"
+msgstr "Zeichen"
+
+#@ genesis-slider
+#: admin.php:399
+msgid "Using this option will limit the text and strip all formatting from the text displayed. To use this option, choose \"Display post content\" in the select box above."
+msgstr "Wenn Sie diese Einstellung benutzen, wird der Text begrenzt und alle Formatierungen vom angezeigten Text entfernt. Um diese Option zu nutzen, wählen Sie bitte \"Inhalt anzeigen\" im Auswahlfeld oben."
+
+#@ genesis-slider
+#: admin.php:367
+msgid "Content Settings"
+msgstr "Inhalte-Einstellungen"
+
+#@ genesis-slider
+#: admin.php:374
+msgid "Display Post/Page Title in Slider?"
+msgstr "Beitrags-/ Seitentitel im Slider anzeigen?"
+
+#@ genesis-slider
+#: admin.php:377
+msgid "Display Content in Slider?"
+msgstr "Inhalt im Slider anzeigen?"
+
+#@ genesis-slider
+#: plugin.php:384
+msgid "Title:"
+msgstr "Titel:"
+
+#@ genesis-slider
+#: admin.php:321
+msgid "Slider Effect"
+msgstr "Slider-Effekt"
+
+#@ genesis-slider
+#: admin.php:324
+msgid "Scroll right"
+msgstr "Scrollen von rechts"
+
+#@ genesis-slider
+#: admin.php:325
+msgid "Scroll left"
+msgstr "Scrollen von links"
+
+#@ genesis-slider
+#: admin.php:326
+msgid "Scroll down"
+msgstr "Scrollen von unten"
+
+#@ genesis-slider
+#: admin.php:327
+msgid "Scroll up"
+msgstr "Scrollen von oben"
+
+#@ genesis-slider
+#: admin.php:328
+msgid "Fade"
+msgstr "Ein-/ Ausblenden"
+
+#@ genesis-slider
+#: admin.php:329
+msgid "Wipe"
+msgstr "Wischen"
+
+#@ genesis-slider
+#: admin.php:330
+msgid "Cover up"
+msgstr "Überdecken von oben"
+
+#@ genesis-slider
+#: admin.php:331
+msgid "Cover down"
+msgstr "Überdecken von unten"
+
+#@ genesis-slider
+#: admin.php:332
+msgid "Cover left"
+msgstr "Überdecken von links"
+
+#@ genesis-slider
+#: admin.php:333
+msgid "Cover right"
+msgstr "Überdecken von rechts"
+
+#@ genesis-slider
+#: admin.php:338
+msgid "Scroll Loop (only applies to scroll options)"
+msgstr "Wiederholung/ Endlosschleife (gilt nur für die Scroll-Optionen)"
+
+#@ genesis-slider
+#: admin.php:340
+msgid "Rewind slides"
+msgstr "Slides zurückspulen"
+
+#@ genesis-slider
+#: admin.php:341
+msgid "Loop slides"
+msgstr "Endlosschleife"
+
+#@ genesis-slider
+#: admin.php:244
+msgid "Exclude by Taxonomy ID"
+msgstr "Ausschließen nach Taxonomie-ID"
+
+#@ genesis-slider
+#: admin.php:247
+msgid "List which category, tag or other taxonomy IDs to exclude. (1,2,3,4 for example)"
+msgstr "Listen Sie auf, welche Kategorie, welches Schlagwort oder welche Taxonomie-IDs ausgeschlossen werden sollen (z.B. 1,2,3,4)"
+
+#@ genesis-slider
+#: admin.php:292
+msgid "Menu Order"
+msgstr "Menureihenfolge"
+
+#@ genesis-slider
+#: admin.php:298
+msgid "Order"
+msgstr "Sortierung"
+
+#@ genesis-slider
+#: admin.php:300
+msgid "Descending"
+msgstr "Absteigend"
+
+#@ genesis-slider
+#: admin.php:301
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#@ genesis-slider
+#: admin.php:360
+msgid "Navigation"
+msgstr "Navigation"
+
+#@ genesis-slider
+#: admin.php:361
+msgid "None"
+msgstr "Keine"
+
+#@ genesis-slider
+#: admin.php:362
+msgid "Arrows"
+msgstr "Pfeile"
+
+#@ genesis-slider
+#: admin.php:370
+msgid "Do not link Slider image to Post/Page."
+msgstr "Bilder im Slider nicht auf entsprechende(n) Beitrag/ Seite verlinken."
+

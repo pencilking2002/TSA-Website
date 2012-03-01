@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AmR users v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-16 23:43+1100\n"
+"Last-Translator: admin <jmar@anmari.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Afrikaans\n"
+"X-Poedit-Country: SOUTH AFRICA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: ameta-admin.php:20
+msgid "copy"
+msgstr ""
+
+#: ameta-admin.php:28
+#@ amr-users
+msgid "Number of Lists must be greater than 0 and less than 40"
+msgstr ""
+
+#: ameta-admin.php:118
+#: ameta-admin.php:128
+#@ amr-users
+msgid "Update"
+msgstr ""
+
+#: ameta-admin.php:119
+#@ amr-users
+msgid "Uninstall"
+msgstr ""
+
+#: ameta-admin.php:120
+#@ amr-users
+msgid "Reset all options"
+msgstr ""
+
+#: ameta-admin.php:137
+#@ amr-users
+msgid "Nicer names for list headings"
+msgstr ""
+
+#: ameta-admin.php:155
+#: ameta-admin.php:281
+#@ amr-users
+msgid "Options Updated"
+msgstr ""
+
+#: ameta-admin.php:157
+#@ amr-users
+msgid "Validation failed"
+msgstr ""
+
+#: ameta-admin.php:254
+msgid "At least some display order must be specified for the list to be meaningful"
+msgstr ""
+
+#: ameta-admin.php:270
+#, php-format
+#@ amr-users
+msgid "Must be numeric  %s <= %s"
+msgstr ""
+
+#: ameta-admin.php:273
+#, php-format
+#@ amr-users
+msgid "%s Must be  <= %s"
+msgstr ""
+
+#: ameta-admin.php:283
+#@ amr-users
+msgid "List Fields Validation failed"
+msgstr ""
+
+#: ameta-admin.php:328
+#, php-format
+#@ amr-users
+msgid "Configure list %s: %s"
+msgstr ""
+
+#: ameta-admin.php:330
+#@ amr-users
+msgid "View (please update first)"
+msgstr ""
+
+#: ameta-admin.php:334
+#@ amr-users
+msgid "Field name"
+msgstr ""
+
+#: ameta-admin.php:335
+#@ amr-users
+msgid "Blank to hide, Enter a integer to select and specify column order.  Eg: 1 2 6 8"
+msgstr ""
+
+#: ameta-admin.php:335
+#@ amr-users
+msgid "Display order"
+msgstr ""
+
+#: ameta-admin.php:336
+#: ameta-admin.php:338
+#@ amr-users
+msgid "Eg: value1,value2"
+msgstr ""
+
+#: ameta-admin.php:336
+#@ amr-users
+msgid "Include:"
+msgstr ""
+
+#: ameta-admin.php:337
+#@ amr-users
+msgid "Tick to include a user ONLY if there is no value"
+msgstr ""
+
+#: ameta-admin.php:337
+#@ amr-users
+msgid "Include ONLY if Blank:"
+msgstr ""
+
+#: ameta-admin.php:338
+#@ amr-users
+msgid "But Exclude:"
+msgstr ""
+
+#: ameta-admin.php:339
+#@ amr-users
+msgid "Tick to exclude a user if there is no value"
+msgstr ""
+
+#: ameta-admin.php:339
+#@ amr-users
+msgid "Exclude if Blank:"
+msgstr ""
+
+#: ameta-admin.php:342
+#@ amr-users
+msgid "Enter integers, need not be contiguous"
+msgstr ""
+
+#: ameta-admin.php:342
+#@ amr-users
+msgid "Sort Order:"
+msgstr ""
+
+#: ameta-admin.php:343
+#@ amr-users
+msgid "For sort order.  Default is ascending"
+msgstr ""
+
+#: ameta-admin.php:343
+#@ amr-users
+msgid "Sort Descending:"
+msgstr ""
+
+#: ameta-admin.php:427
+#@ amr-users
+msgid "Deleting number of lists and names in database"
+msgstr ""
+
+#: ameta-admin.php:429
+#@ amr-users
+msgid "Deleting all lists settings in database"
+msgstr ""
+
+#: ameta-admin.php:431
+#@ amr-users
+msgid "Deleting all nice name settings in database"
+msgstr ""
+
+#: ameta-admin.php:437
+#@ amr-users
+msgid "Click to return to defaults settings"
+msgstr ""
+
+#: ameta-admin.php:450
+#@ amr-users
+msgid "Number of User Lists:"
+msgstr ""
+
+#: ameta-admin.php:455
+#@ amr-users
+msgid "Name of List "
+msgstr ""
+
+#: ameta-admin.php:458
+#@ amr-users
+msgid "Configure"
+msgstr ""
+
+#: ameta-admin.php:459
+#@ amr-users
+msgid "View"
+msgstr ""
+
+#: ameta-admin.php:472
+#@ amr-users
+msgid "Support at Author&#39;s website"
+msgstr ""
+
+#: ameta-admin.php:473
+#@ amr-users
+msgid "Support at wordpress"
+msgstr ""
+
+#: ameta-admin.php:475
+#@ amr-users
+msgid "Rss feed"
+msgstr ""
+
+#: ameta-admin.php:477
+#@ amr-ical-events-list
+msgid "Donate"
+msgstr ""
+
+#: ameta-admin.php:486
+#@ amr-users
+msgid "Configure User Lists:"
+msgstr ""
+
+#: ameta-admin.php:488
+#@ amr-users
+msgid "Home: Number and names of User Lists"
+msgstr ""
+
+#: ameta-admin.php:490
+#@ amr-users
+msgid "Nice Names for User Fields"
+msgstr ""
+
+#: ameta-admin.php:502
+#@ amr-users
+msgid "Instructions"
+msgstr ""
+
+#: ameta-admin.php:504
+#@ amr-users
+msgid "Almost all possible user fields that have data in this wordpress install are listed below.  If you have not yet created data for another plugin used in your main site, then there may be no related data here.  Yes this is a looooong list, and if you have a sophisticated membership system, it may be even longer than others.  The fields that you are working with will be sorted to the top."
+msgstr ""
+
+#: ameta-admin.php:507
+#@ amr-users
+msgid "Configure a list in the suggested sequence below. <b>Update</b> after each step, then click <b>view</b> (top right) to see the result.  Click Configure or back to return."
+msgstr ""
+
+#: ameta-admin.php:508
+#@ amr-users
+msgid "Note: Exclude and Include blank override any values."
+msgstr ""
+
+#: ameta-admin.php:512
+#@ amr-users
+msgid "Enter a number in the display order column to select a field for display and to define the display order."
+msgstr ""
+
+#: ameta-admin.php:515
+#@ amr-users
+msgid "Enter a number (1-2) to define the sort order for your list"
+msgstr ""
+
+#: ameta-admin.php:518
+#@ amr-users
+msgid "If a sort order should be descending, such as counts or dates, click \"sort descending\" for that field."
+msgstr ""
+
+#: ameta-admin.php:521
+#@ amr-users
+msgid "From the view list, you will see the data values.  If you wish to include or exclude a record by a value, note the value, then enter that value in the Include or Exclude Column.  Separate the values with a comma, but NO spaces."
+msgstr ""
+
+#: ameta-admin.php:594
+msgid "Settings"
+msgstr ""
+
+#: ameta-admin.php:626
+#@ amr-users
+msgid "User lists"
+msgstr ""
+
+#: ameta-includes.php:22
+#@ amr-users
+msgid "User name"
+msgstr ""
+
+#: ameta-includes.php:23
+#@ amr-users
+msgid "Nice name"
+msgstr ""
+
+#: ameta-includes.php:24
+#@ amr-users
+msgid "Email"
+msgstr ""
+
+#: ameta-includes.php:25
+#@ amr-users
+msgid "Url"
+msgstr ""
+
+#: ameta-includes.php:26
+#@ amr-users
+msgid "Registration date"
+msgstr ""
+
+#: ameta-includes.php:147
+#@ amr-users
+msgid "Users: Details"
+msgstr ""
+
+#: ameta-includes.php:148
+#@ amr-users
+msgid "Users: Member status and dates"
+msgstr ""
+
+#: ameta-includes.php:149
+#@ amr-users
+msgid "Users: Post and Comment Counts"
+msgstr ""
+
+#: ameta-list.php:18
+#@ amr-users
+msgid "Jump to CSV Export"
+msgstr ""
+
+#: ameta-list.php:20
+#@ amr-users
+msgid "Configure all lists"
+msgstr ""
+
+#: ameta-list.php:22
+#@ amr-users
+msgid "Configure this list"
+msgstr ""
+
+#: ameta-list.php:83
+#@ amr-users
+msgid "Excluding where:"
+msgstr ""
+
+#: ameta-list.php:85
+#: ameta-list.php:128
+#@ amr-users
+msgid " or "
+msgstr ""
+
+#: ameta-list.php:99
+#@ amr-users
+msgid "Exclude if blank:"
+msgstr ""
+
+#: ameta-list.php:113
+#@ amr-users
+msgid "Include only if blank:"
+msgstr ""
+
+#: ameta-list.php:126
+#@ amr-users
+msgid "Including where:"
+msgstr ""
+
+#: ameta-list.php:141
+#@ amr-users
+msgid " Sorting by: "
+msgstr ""
+
+#: ameta-list.php:155
+#, php-format
+#@ amr-users
+msgid "%1s Users selected from total of %2s"
+msgstr ""
+
+#: ameta-list.php:218
+#@ amr-users
+msgid "Export to CSV"
+msgstr ""
+
+#: ameta-list.php:222
+#, php-format
+#@ amr-users
+msgid "No users found for list %s"
+msgstr ""
+
+#: ameta-list.php:225
+#, php-format
+#@ amr-users
+msgid "No fields chosen for display in settings for list %s"
+msgstr ""
+
+#: ameta-list.php:227
+#@ amr-users
+msgid "No users in database! - que pasar?"
+msgstr ""
+
+#: ameta-list.php:250
+#@ amr-users
+msgid "No lists Defined"
+msgstr ""
+
+#: amr-users-uninstall.php:6
+#@ amr-users
+msgid "AmR user Options deleted from Database"
+msgstr ""
+
+#: amr-users-uninstall.php:23
+#@ amr-users
+msgid "Uninstall AmR user Options"
+msgstr ""
+
+#: amr-users-uninstall.php:24
+#@ amr-users
+msgid "Note this function removes the options from the database.  To completely uninstall, one should continue on to use the standard wordpress functions to deactivate the plugin and delete the files.  It is not necessary to run this separately as the uninstall will also run as part of the wordpress delete plug-in files."
+msgstr ""
+
+#: amr-users-uninstall.php:25
+msgid "The function is provided here as an aid to someone who has perhaps got their wordpress install in a knot and wishes to temporarily remove the options from the database as part of their debugging or cleanup.  Consider also the use of the RESET."
+msgstr ""
+
+#: amr-users-uninstall.php:33
+#@ amr-users
+msgid "Note: Navigating to \"User List Settings\" will RELOAD default options - negating the uninstall."
+msgstr ""
+
+#: amr-users-uninstall.php:35
+#@ amr-users
+msgid "Continue to Plugin list to delete files as well"
+msgstr ""
+
+#: amr-users-uninstall.php:46
+#@ amr-ical-events-list
+msgid "Cancel"
+msgstr ""
+
+#: amr-users-uninstall.php:47
+#@ amr-users
+msgid "Really Uninstall Options?"
+msgstr ""
+

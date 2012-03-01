@@ -1,0 +1,179 @@
+/*
+Theme Name: Custom Community Child
+Template: custom-community
+Theme URI: http://themekraft.com/custom-community/
+Description: Create your individual website within minutes. Custom Community is a WordPress and BuddyPress theme framework that enables you to build your site with all the features you love. Easy to use jQuery slideshow. List posts under your pages in magazine layouts. Use powerful theme settings to customize every part of the theme. 20 widget areas, 5 special widgets and 2 custom WP 3.0 header menus. 3 predefined colour schemes (white, grey, black) with clean and simple browsersafe css design to start from. Support forum at http://themekraft.com/forums. 
+Version: 1.8.9.1
+Author: Themekraft
+Author URI: http://themekraft.com/
+Tags: buddypress, translation-ready, dark, light, white, left-sidebar, right-sidebar, two-columns, three-columns, fixed-width, flexible-width, custom-header, custom-menu, custom-colors, custom-background, theme-options
+License: GNU General Public License v2.0 / License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+@import url('../custom-community/style.css');
+
+/* ************* HEADER STYLES ************* */
+body #header { 
+	padding: 20px 0 0 0;
+	height:85px;
+	margin-top:30px;
+	
+}
+
+#logo {
+	left:20px;
+	top:35px;
+}
+
+	/* ************* CUSTOM MENU STYLES ************* */
+	div#header div.menu-top {
+		top:35px;
+		right:5px;
+	}
+	body.home-page .menu-item-object-page a, body.page .menu-item-object-page a, .menu-item.menu-item-type-custom a {
+	color: white;
+	}
+	
+	#menu-logged_in_tsa_menu .menu-item {
+		margin-right:0px;
+	}
+	
+	body.page .menu-item.current-menu-item a {
+		background: #424242;
+		border-radius: 3px;
+		color: white;
+	}
+	/* END CUSTOM MENU STYLES */
+
+/* END HEADER STYLES */
+
+
+
+/* ************* HOME SLIDER  ************* */
+#slideshow-container {
+	width: 960px;
+	height: 360px;
+	background:grey;
+	margin: 85px auto 0 auto;
+	float:left;
+	overflow:hidden;
+}
+
+/* inner slider container */
+.slider-posts {
+	width: 960px;
+	height:360px;
+	position:relative;
+}
+/* POST INFO CONTAINER*/
+.slider-post-text {
+	background:black;
+	width:400px;
+	/* Fallback for web browsers that doesn't support RGBa */
+	background: rgb(0, 0, 0);
+	/* RGBa with 0.6 opacity */
+	background: rgba(0, 0, 0, 0.6);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+	position:absolute;
+	bottom:90px;
+	right:0px;
+	padding:10px;
+	min-height:80px;
+}
+/* POST TITLE */
+.slider-post-text h3 {
+	font-size: 30px;
+	font-family: 'Ruda', sans-serif;
+	line-height:1em;
+	
+}
+
+.slider-post-text > * {
+	color:white;
+}
+
+.slider-controls {
+	position: absolute;
+	top: 0;
+	right:0
+}
+/* CALL TO ACTION */
+a.action-btn {
+	background: #45484d; /* Old browsers */
+	background: -moz-linear-gradient(top,  #45484d 0%, #000000 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#45484d), color-stop(100%,#000000)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #45484d 0%,#000000 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #45484d 0%,#000000 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #45484d 0%,#000000 100%); /* IE10+ */
+	background: linear-gradient(top,  #45484d 0%,#000000 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+
+padding:10px 20px;
+	margin-top:0;
+	font-weight:bold;
+	border: 1px solid black;
+}
+
+/*END HOME SLIDER */
+
+/* HOME PAGE STYLES */
+.home-page .padder {
+	width:100%;
+	
+}
+
+.home-page .padder .home-news {
+	margin:-10px 0 20px 0;
+	width:91%;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+	padding: 11px 20px 10px 20px;
+	line-height:20px;
+}
+
+.home-module.post {
+	border: 1px solid #CCC;
+	margin-right:19px;
+	min-height:150px;
+	max-height:300px;
+	padding: 10px;
+	float:left;
+	width:270px;
+}
+.home-news h4 {
+	display: inline;
+	color:darkred;
+	
+}
+.home-news-content {
+	font-weight:normal;
+	font-size:16px;
+	
+}
+	
+/* HOME PAGE STYLES */
+
+/* news */
+
+.page-template-news-template-php .padder {
+	float:left;
+}
+
+.page-template-news-template-php .widget {
+
+	right:0;
+	top:0;
+	position:absolute;
+	padding:20px;
+	width:180px;
+}
+
+/* end news*/
+
+/* Generic styles */
+.rounded {
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+
+}
+/* End Generic styles */
