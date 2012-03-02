@@ -23,10 +23,5 @@
                   
             </div>
             
-            <div class ="slider-controls">
-            	<div class="nav"></div>
-            	<div id="prev">prev</div>
-            	<div id="next">next</div>
-			</div>
+            
 		</div>
-</html>

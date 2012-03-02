@@ -106,19 +106,42 @@ a.action-btn {
 	background: -ms-linear-gradient(top,  #45484d 0%,#000000 100%); /* IE10+ */
 	background: linear-gradient(top,  #45484d 0%,#000000 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
-
-padding:10px 20px;
+	
+	padding:10px 20px;
 	margin-top:0;
 	font-weight:bold;
 	border: 1px solid black;
 }
+/* The slider controls */
+.slider-controls > .nav {
+	position: absolute;
+	top:440px;
+	left:-540px;
+	color:white;
+	z-index: 9999;
+	
+} 
+
+.slider-controls .nav a {
+	margin-left:10px;
+	background: white;
+	color: #FFF;
+	padding:0px 3px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+}
+.nav a.active-slide {
+	background:#CCC;
+	color:#CCC;
+}
+/* End The slider controls */
 
 /*END HOME SLIDER */
 
 /* HOME PAGE STYLES */
 .home-page .padder {
 	width:100%;
-	
 }
 
 .home-page .padder .home-news {
@@ -139,18 +162,21 @@ padding:10px 20px;
 	float:left;
 	width:270px;
 }
-.home-news h4 {
+.home-news > h4  {
 	display: inline;
 	color:darkred;
+}
+
+.home-news .home-news-content h4, .home-news .home-news-content p {
+	display: inline;
 	
 }
 .home-news-content {
 	font-weight:normal;
 	font-size:16px;
-	
 }
 	
-/* HOME PAGE STYLES */
+/* END HOME PAGE STYLES */
 
 /* news */
 
@@ -159,7 +185,6 @@ padding:10px 20px;
 }
 
 .page-template-news-template-php .widget {
-
 	right:0;
 	top:0;
 	position:absolute;

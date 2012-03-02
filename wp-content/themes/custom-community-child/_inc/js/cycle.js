@@ -997,7 +997,7 @@ $.fn.cycle.ver = function() { return ver; };
 
 // override these globally if you like (they are all optional)
 $.fn.cycle.defaults = {
-	activePagerClass: 'activeSlide', // class name used for the active pager link
+	activePagerClass: 'active-slide', // class name used for the active pager link
 	after:		   null,  // transition callback (scope set to element that was shown):  function(currSlideElement, nextSlideElement, options, forwardFlag)
 	allowPagerClickBubble: false, // allows or prevents click event on pager anchors from bubbling
 	animIn:		   null,  // properties that define how the slide animates in
