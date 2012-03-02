@@ -33,6 +33,9 @@ body #header {
 	color: white;
 	}
 	
+	#menu-logged_in_tsa_menu {
+		margin-right:15px;
+	}
 	#menu-logged_in_tsa_menu .menu-item {
 		margin-right:0px;
 	}
@@ -79,16 +82,24 @@ body #header {
 	padding:10px;
 	min-height:80px;
 }
+
+
 /* POST TITLE */
+/* Declare a font for the slideshow title */
+@font-face {font-family: 'CoolveticaRg-Regular';src: url('/webfonts/coolvetica/205CD6_0_0.eot');src: url('/webfonts/coolvetica/205CD6_0_0.eot?#iefix') format('embedded-opentype'),url('/webfonts/coolvetica/205CD6_0_0.woff') format('woff'),url('/webfonts/coolvetica/205CD6_0_0.ttf') format('truetype');}
+
 .slider-post-text h3 {
-	font-size: 30px;
-	font-family: 'Ruda', sans-serif;
+	font-size: 40px;
+	font-family:'CoolveticaRg-Regular', courier;
+	font-weight: normal;
+	font-style: normal;
 	line-height:1em;
-	
+	color:#FFF;
+	letter-spacing:1px;
 }
 
 .slider-post-text > * {
-	color:white;
+	color:#EFEFEF;
 }
 
 .slider-controls {
@@ -126,7 +137,7 @@ a.action-btn {
 	margin-left:10px;
 	background: white;
 	color: #FFF;
-	padding:0px 3px;
+	padding: 0px 3px;
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
 	border-radius: 6px;
@@ -135,6 +146,12 @@ a.action-btn {
 	background:#CCC;
 	color:#CCC;
 }
+
+.home-news a {
+	color:#3399FF;
+	font-size:12px;
+	text-decoration:underline;
+} 
 /* End The slider controls */
 
 /*END HOME SLIDER */

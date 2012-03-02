@@ -8,8 +8,9 @@
 <?php if ( function_exists( 'register_nav_menu' ) ) {
 	register_nav_menus( array( 'main_nav' => 'logged_in_tsa_menu' ) );
 } ?>
+<?php /* Adding a homepage thumnail for the slideshow*/?>
 <?php if ( function_exists( 'add_image_size'  ) ) {
-	 add_image_size( 'homepage-thumb', 960, 900, true ); 
+	 add_image_size( 'homepage-thumb', 960, 360, true ); 
 } ?>
 <?php /* Register a new sidebar for use in the news page */ ?>
 <?php 
