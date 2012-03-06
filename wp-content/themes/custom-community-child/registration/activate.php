@@ -16,7 +16,9 @@
 				<?php if ( isset( $_GET['e'] ) ) : ?>
 					<p><?php _e( 'Your account was activated successfully! Your account details have been sent to you in a separate email.', 'cc' ) ?></p>
 				<?php else : ?>
-					<p><?php _e( 'Your account was activated successfully! You can now log in with the username and password you provided when you signed up.', 'cc' ) ?></p>
+					<p><?php _e( 'Your account was activated successfully! You can now log in with the username and password you provided when you signed up. Choose your membership type:', 'cc' ) ?>
+					  
+					</p>
 				<?php endif; ?>
 
 			<?php else : ?>

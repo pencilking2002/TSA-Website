@@ -24,8 +24,8 @@
 
 				<?php do_action( 'template_notices' ) ?>
 
-				<p><?php _e( 'Registering for this site is easy, just fill in the fields below and we\'ll get a new account set up for you in no time.', 'cc' ) ?></p>
-
+				<p><?php _e( 'Create a username and password and tell us a little bit about yourself', 'cc' ) ?></p>
+        <!--<div class ="tsa-register"> -->
 				<?php do_action( 'bp_before_account_details_fields' ) ?>
 
 				<div class="register-section" id="basic-details-section">
@@ -57,6 +57,7 @@
 				<?php /***** Extra Profile Details ******/ ?>
 
 				<?php if ( bp_is_active( 'xprofile' ) ) : ?>
+				 
 
 					<?php do_action( 'bp_before_signup_profile_fields' ) ?>
 
@@ -161,7 +162,7 @@
 							</div>
 
 						<?php endwhile; ?>
-
+ 
 						<input type="hidden" name="signup_profile_field_ids" id="signup_profile_field_ids" value="<?php bp_the_profile_group_field_ids() ?>" />
 
 						<?php endwhile; endif; endif; ?>
@@ -206,7 +207,8 @@
 							<label><input type="radio" name="signup_blog_privacy" id="signup_blog_privacy_private" value="private"<?php if ( 'private' == bp_get_signup_blog_privacy_value() ) : ?> checked="checked"<?php endif; ?> /> <?php _e( 'No', 'cc' ) ?></label>
 
 						</div>
-
+          <!--</div>-->
+          <!-- End TSA REGISTER-->
 					</div><!-- #blog-details-section -->
 
 					<?php do_action( 'bp_after_blog_details_fields' ) ?>
@@ -216,7 +218,7 @@
 				<?php do_action( 'bp_before_registration_submit_buttons' ) ?>
 
 				<div class="submit">
-					<input type="submit" name="signup_submit" id="signup_submit" value="<?php _e( 'Complete Sign Up', 'cc' ) ?>" />
+					<input type="submit" name="signup_submit" id="signup_submit" value="<?php _e( 'Next', 'cc' ) ?>" />
 				</div>
 
 				<?php do_action( 'bp_after_registration_submit_buttons' ) ?>
@@ -233,7 +235,12 @@
 				<?php do_action( 'bp_before_registration_confirmed' ) ?>
 
 				<?php if ( bp_registration_needs_activation() ) : ?>
-					<p><?php _e( 'You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address.', 'cc' ) ?></p>
+					<p><?php _e( 'Thanks! Check your inbox, we just sent you an verification email. Follow the instructions to activate your account and view membership options', 'cc' ) ?></p>
+					<p>
+				    <?php echo do_shortcode('[s2Member-PayPal-Button level="1" ccaps="" desc="Bronze Member / description and pricing details here." 
+				    ps="paypal" lc="" cc="USD" dg="0" ns="1" custom="localhost:8888" ta="2.00" tp="1" tt="D" ra="0.01" rp="1" rt="D" rr="0" rrt="" rra="1" image="default" output="button" /]'); ?>
+            
+					</p>
 				<?php else : ?>
 					<p><?php _e( 'You have successfully created your account! Please log in using the username and password you have just created.', 'cc' ) ?></p>
 				<?php endif; ?>

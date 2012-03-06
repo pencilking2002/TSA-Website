@@ -14,9 +14,9 @@
         <link href='http://fonts.googleapis.com/css?family=Vast+Shadow' rel='stylesheet' type='text/css'>
 
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" ></script>
-		<script type="text/javascript" src="http://localhost:8888/wp-content/themes/custom-community-child/_inc/js/easing-plugin.js" ></script>
-		<script type="text/javascript" src="http://localhost:8888/wp-content/themes/custom-community-child/_inc/js/cycle.js" ></script>
-        <script type="text/javascript" src="http://localhost:8888/wp-content/themes/custom-community-child/_inc/js/slideshow-stuff.js" ></script>
+		<script type="text/javascript" src="http://roman.is-an-artist.com/wp-content/themes/custom-community-child/_inc/js/easing-plugin.js" ></script>
+		<script type="text/javascript" src="http://roman.is-an-artist.com/wp-content/themes/custom-community-child/_inc/js/cycle.js" ></script>
+        <script type="text/javascript" src="http://roman.is-an-artist.com/wp-content/themes/custom-community-child/_inc/js/slideshow-stuff.js" ></script>
 		<?php wp_head(); ?>
 	</head>
 

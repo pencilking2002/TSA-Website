@@ -211,6 +211,29 @@ a.action-btn {
 
 /* end news*/
 
+/* MEMBERSHIP OPTIONS/JOIN */
+
+.level {
+	float:left;
+	width: 100px;
+	padding: 0 10px 0 0;
+}
+
+/* END MEMBERSHIP OPTIONS/JOIN */
+
+/* signup page */
+body.registration #content div.padder {
+margin-right:0;
+}
+.tsa-register {
+	float:right;
+	border: 1px solid black;
+
+}
+
+/* END signup page*/
+
+
 /* Generic styles */
 .rounded {
 -moz-border-radius: 5px;
